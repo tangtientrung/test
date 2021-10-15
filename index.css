@@ -22,7 +22,7 @@ body {
     position: relative;
     width:250px;
     height: 200px;
-    background-color: #6247aa;
+    background-color: #FFC0CB;
 }
 
 .letter {
@@ -86,7 +86,7 @@ body {
 
 .front {
     position: absolute;
-    border-right: 130px solid #815ac0;
+    border-right: 130px solid #FFC0CB;
     border-top: 100px solid transparent;
     border-bottom: 100px solid transparent;
     height:0;
@@ -99,7 +99,7 @@ body {
 .front:before {
     content:"";
     position: absolute;
-    border-left: 130px solid #815ac0;
+    border-left: 130px solid #FFC0CB;
     border-top: 100px solid transparent;
     border-bottom: 100px solid transparent;
     height:0;
@@ -111,7 +111,7 @@ body {
 .front:after {
     content:"";
     position: absolute;
-    border-bottom: 105px solid #7251b5;
+    border-bottom: 105px solid #FFB6C1;
     border-left: 125px solid transparent;
     border-right:125px solid transparent;
     height:0;
@@ -122,7 +122,7 @@ body {
 
 .top {
     position: absolute;
-    border-top: 105px solid #9163cb;
+    border-top: 105px solid #FFB6C1;
     border-left: 125px solid transparent;
     border-right:125px solid transparent;
     height:0;
